@@ -4,7 +4,7 @@ Hi 👋, I'm **Boktiar Hussain Talukdar**
 🎯 Aspiring Full-Stack Developer | 🌱 MERN Enthusiast | 🚀 Building Scalable Solutions
 
 👨💻 Currently crafting magic with React & Node.js  
-📚 Learning Data Science 
+📚 Learning Data Science                         
 💡 Passionate about solving real-world problems with code  
 ☕️ Java | Python | Open Source Contributor
 
