@@ -15,7 +15,7 @@ Hi 👋, I'm **Boktiar Hussain Talukdar**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/boktiar-hussain-58766a254)
 [![Gmail](https://img.shields.io/badge/Email-Send%20Message-%23D14836?style=for-the-badge&logo=gmail)](mailto:boktiaroff01@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Challenges-%23FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Boktiar/)
-[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-%23000000?style=for-the-badge)](https://portfolio055.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-%23000000?style=for-the-badge)]([https://portfolio055.vercel.app/](https://portfolio-boktiars-projects.vercel.app/))
 
 ---
 
