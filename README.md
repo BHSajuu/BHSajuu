@@ -6,7 +6,7 @@ Hi 👋, I'm **Boktiar Hussain Talukdar**
 👨💻 Currently crafting magic with React & Node.js  
 📚 Learning Data Science                         
 💡 Passionate about solving real-world problems with code  
-☕️ Java | Python | Open Source Contribu
+☕️ Java | Python | Open Source Contrib
 
 ---
 
