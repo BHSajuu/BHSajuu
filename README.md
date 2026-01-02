@@ -3,7 +3,7 @@ Hi 👋, I'm **Boktiar Hussain Talukdar**
 <br>
 🎯 Aspiring Full-Stack Developer | 🌱 MERN Enthusiast | 🚀 Building Scalable Solutions
 
-👨💻 Currently crafting magic with React & Node.js  
+👨💻 Currently crafting magic with React & Node.js   
 📚 Learning Data Science                         
 💡 Passionate about solving real-world problems with code   
 ☕️ Java | Python 
